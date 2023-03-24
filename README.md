@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jakub Kowalski @jkowalski995
 - I'm Master of Science in Electronics and Telecommunication.
-- I'm a Ph.D. at the Military University of Technology in Warsaw, Poland.
+- I'm currently working as CERT Engineer - Threat Intelligence.
 - 👀 I’m interested in programming, algorithmics. computer networks, photography and many more...
-- 🌱 I’m currently learning machine Learning and Python
+- 🌱 I’m currently learning cybersecurity and Python
 - 📫 How to reach me - LinkedIn profile: jakub-kowalski-82b114228
 - 🌐 https://pythononedayproject.wordpress.com/
 

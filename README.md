@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jakub Kowalski @jkowalski995
 - I'm Master of Science in Electronics and Telecommunication.
-- I'm currently working as CERT Engineer - Threat Intelligence.
+- I'm currently working as Cyber Threat Intelligence Analyst.
 - 👀 I’m interested in programming, algorithmics. computer networks, photography and many more...
 - 🌱 I’m currently learning cybersecurity and Python
 - 📫 How to reach me - LinkedIn profile: jakub-kowalski-82b114228

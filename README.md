@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jakub Kowalski @jkowalski995
 - I'm Master of Science in Electronics and Telecommunication.
 - I'm currently working as Cyber Threat Intelligence Analyst.
-- 👀 I’m interested in programming, algorithmics. computer networks, photography and many more...
-- 🌱 I’m currently learning cybersecurity and Python
+- 👀 I’m interested in cybersecurity, AI, programming, algorithmics. computer networks, photography and many more...
+- 🌱 I'm gaining new skills in cybersecurity and AI
 - 📫 How to reach me - LinkedIn profile: jakub-kowalski-82b114228
 - 🌐 [https://linktr.ee/jkowalski](https://linktr.ee/jkowalski)
 
